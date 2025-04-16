@@ -32,7 +32,7 @@ The VM is provisioned using a shell script located at ./provision/base.sh. This 
 Update AlmaLinux:
 
 - Installs the EPEL repository and updates the system packages.
-- 
+
 Install NGINX Web Server:
 
 - Installs NGINX and copies custom configuration files from the provision directory.
